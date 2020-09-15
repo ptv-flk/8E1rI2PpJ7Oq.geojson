@@ -1,1 +1,1 @@
-{"type": "FeatureCollection","features":[]}
+{"type": "FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[6.985519,51.116282]},"properties":{"uuid":"b4926e70-92ae-4574-b498-2862a716594a","message":"test 1 test 1","kat":"foot","map":"%7B%22type%22%3A%22Feature%22%2C%22properties%22%3A%7B%7D%2C%22geometry%22%3A%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B6.985519%2C51.116282%5D%7D%7D)/6.985519,51.116282,16","mailurl":"16/51.1163/6.9855","datum":"2020-09-15T16:45:58+02:00","foto":"1"}}]}
